@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/04/19 19:28:48.390.pas,\\.psf\Home\Documents\RAD Studio\Projects\Unit4.pas=\\.psf\Home\Desktop\sesim20\Main.pas</Transaction>
+    <Transaction>2010/04/19 19:28:48.406.dfm,\\.psf\Home\Documents\RAD Studio\Projects\Unit4.dfm=\\.psf\Home\Desktop\sesim20\Main.dfm</Transaction>
+    <Transaction>2010/04/19 19:28:55.609.dproj,\\.psf\Home\Documents\RAD Studio\Projects\Project4.dproj=\\.psf\Home\Desktop\sesim20\sesim20.dproj</Transaction>
+    <Transaction>2010/04/21 09:51:15.421.PAS,c:\program files\embarcadero\rad studio\7.0\ObjRepos\EN\DelphiWin32\TABPGDLG.PAS=\\.psf\Home\Desktop\sesim20\TABPGDLG.PAS</Transaction>
+    <Transaction>2010/04/21 09:51:15.421.dfm,c:\program files\embarcadero\rad studio\7.0\ObjRepos\EN\DelphiWin32\TABPGDLG.dfm=\\.psf\Home\Desktop\sesim20\TABPGDLG.dfm</Transaction>
+    <Transaction>2010/04/21 12:09:54.031.pas,\\.psf\Home\Desktop\sesim20\Unit1.pas=\\.psf\Home\Desktop\sesim20\Member.pas</Transaction>
+    <Transaction>2010/04/21 12:10:19.140.pas,\\.psf\Home\Desktop\sesim20\Unit1.pas=\\.psf\Home\Desktop\sesim20\Feat.pas</Transaction>
+    <Transaction>2010/04/21 13:22:46.765.pas,\\.psf\Home\Desktop\sesim20\Unit1.pas=\\.psf\Home\Desktop\sesim20\Skill.pas</Transaction>
+    <Transaction>2010/04/21 13:36:58.687.pas,\\.psf\Home\Desktop\sesim20\Unit1.pas=\\.psf\Home\Desktop\sesim20\Task.pas</Transaction>
+    <Transaction>2010/04/25 15:56:45.859.pas,\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\Unit1.pas=\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\GenerateTeam.pas</Transaction>
+    <Transaction>2010/04/25 15:56:45.859.dfm,\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\Unit1.dfm=\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\GenerateTeam.dfm</Transaction>
+    <Transaction>2010/04/25 20:17:26.484.pas,\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\Unit2.pas=\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\CreateTask.pas</Transaction>
+    <Transaction>2010/04/25 20:17:26.484.dfm,\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\Unit2.dfm=\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\CreateTask.dfm</Transaction>
+    <Transaction>2010/04/25 20:24:01.328.pas,\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\CreateTask.pas=</Transaction>
+    <Transaction>2010/04/25 20:24:01.328.dfm,\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\CreateTask.dfm=</Transaction>
+    <Transaction>2010/04/25 20:25:02.234.pas,\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\Unit2.pas=\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\CreateTask.pas</Transaction>
+    <Transaction>2010/04/25 20:25:02.234.dfm,\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\Unit2.dfm=\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\CreateTask.dfm</Transaction>
+    <Transaction>2010/05/09 19:05:37.875.pas,\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\Unit2.pas=\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\splashunit.pas</Transaction>
+    <Transaction>2010/05/09 19:05:37.875.dfm,\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\Unit2.dfm=\\.psf\Home\Desktop\Dropbox\software simulation\sesim20\splashunit.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
